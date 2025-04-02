@@ -39,21 +39,3 @@ For Windows:
 gradlew.bat run
 ``
 
-📁 Project Structure
-train-booking-system/
-│-- app/
-│   ├── src/main/java/org/ticket_booking/
-│   │   ├── App.java
-│   │   ├── Entities/
-│   │   ├── Services/
-│   │   ├── Util/
-│   ├── src/test/java/org/ticket_booking/
-│-- localDb/
-│   ├── users.json
-│   ├── trains.json
-│-- gradle/
-│-- build.gradle
-│-- settings.gradle
-│-- README.md
-
-
